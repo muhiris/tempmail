@@ -1,0 +1,32 @@
+{
+  "name": "tempmail",
+  "version": "1.0.0",
+  "description": "A CLI tool for generating temporary emails to receive codes for login.",
+  "keywords": [
+    "temporary email",
+    "login",
+    "CLI",
+    "GitHub",
+    "authentication",
+    "verification",
+    "temporary mailbox",
+    "temporary inbox",
+    "email generator",
+    "temporary email address",
+    "temporary email service"
+  ],
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "tempmail": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Haris",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "onesecmail": "^3.0.0"
+  }
+}
