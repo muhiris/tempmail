@@ -8,7 +8,7 @@
 Install Tempmail globally using the following command:
 
 ```bash
-npm install -g tmv
+npm install -g trashx
 ```
 
 
@@ -17,7 +17,7 @@ npm install -g tmv
 To use the Tempmail CLI tool:
 
 1. Install the package globally (as mentioned above).
-2. Running the `tmv` command in your terminal.
+2. Running the `trashx` command in your terminal.
 
 
 
