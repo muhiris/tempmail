@@ -3,7 +3,7 @@
 **Tempmail** is a Node JS based CLI Tool that provides a convenient way to generate temporary email addresses for receiving verification codes during registrations or login processes. This is particularly useful for developers and testers who want to avoid using their primary email addresses for signup purposes.
 
 
-### Installation (Coming Soon)
+### Installation
 
 Install Tempmail globally using the following command:
 
