@@ -1,6 +1,8 @@
 ## Tempmail - A Temporary Email CLI Tool
 
-**Tempmail** is a Node JS based CLI Tool that provides a convenient way to generate temporary email addresses for receiving verification codes during registrations or login processes. This is particularly useful for developers and testers who want to avoid using their primary email addresses for signup purposes.
+![npm](https://img.shields.io/npm/v/trashx) ![npm](https://img.shields.io/npm/dt/trashx) ![NPM](https://img.shields.io/npm/l/trashx)
+
+**Tempmail** is a Node JS based CLI Tool that provides a convenient trashx to generate temporary email addresses for receiving verification codes during registrations or login processes. This is particularly useful for developers and testers who want to avoid using their primary email addresses for signup purposes.
 
 
 ### Installation
