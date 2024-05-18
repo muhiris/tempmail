@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Tempmail - A Temporary Email CLI Tool</h2>
+  <h1 align="center">Trashx - A Temporary Email CLI Tool</h2>
 </p>
 
 
